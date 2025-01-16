@@ -6,7 +6,7 @@ type: region or country
 aliases: 
 ---
 # Description
-
+- 
 
 # Geographical Location and Features
 
@@ -24,7 +24,8 @@ aliases:
 
 # Detailed Notes
 ### Government Structure
-* The coast is governed democratically, with a voted council of 10 individuals from both the 
+* The coast is a democratically run nation with a chair made up of 10 people. Of the 10, 5 come from the uppercity, where each riding is from a different district, and 5 from the undercity, where each riding is a separate floor.
+* Due of the diversity of the chair, internal conflict arises because of opposing interests and goals.
 
 ### Guilds
 * 
