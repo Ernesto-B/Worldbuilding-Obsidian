@@ -20,7 +20,12 @@ aliases:
 
 
 # Other Key Locations
-
+- Caves
+- Port
+- Plains
+- Fishery Towns
+- [[Cascadea]]
+- [[Stonefall]]
 
 # History
 
@@ -60,7 +65,10 @@ aliases:
 * 
 
 ### Organized Crime
-* 
+* Organized crime has risen in the lower [[Hollow|Hollows]], such as smuggling, kidnapping, drug dealing, thievery, illegal use of magical items, and manslaughter.
+* The organized crime has arisen due to tensions in the government chair, where even though [[Stonefall]] has 5 representatives, no real changes are being made to make the quality of life better. Crime lords are resorting to these crimes so that they can make a living as well as protect their peers from other crime lords.
+* [[Cascadea]] is absent of crime on paper, however, many citizens strike deals with crime lords from [[Stonefall]] to obtain illegal substances or other dangerous items.
+* The upper class of humans in [[Cascadea]], though rare, use illegal illusion magic to deceive traders or customers for personal gain. Some of these scholars of magic have made their way up into a government chair. 
 
 ### Education
 * 
