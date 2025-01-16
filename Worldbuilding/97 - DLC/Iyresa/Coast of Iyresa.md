@@ -6,7 +6,7 @@ type: region or country
 aliases: 
 ---
 # Description
-- 
+- The coast of Iyresa is split into the 
 
 # Geographical Location and Features
 
