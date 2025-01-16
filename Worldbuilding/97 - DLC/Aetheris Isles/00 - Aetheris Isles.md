@@ -1,6 +1,6 @@
 ---
 date: 2025-01-10
-campaign: Wrath of Ul'Tirex
+campaign: 
 arc: 
 type: region or country
 aliases: 
