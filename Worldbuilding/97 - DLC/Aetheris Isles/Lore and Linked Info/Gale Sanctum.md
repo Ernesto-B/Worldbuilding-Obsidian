@@ -11,7 +11,7 @@ aliases:
 - Wind turbines and sails throughout the arena harness Vorynth’s constant gales, powering mechanisms like moving platforms, gates, and banners.
 - Combatants may face dynamic challenges, such as shifting terrain, opening pits, or floating obstacles driven by the wind.
 - The main battleground features a blend of solid stone and floatstone platforms. These platforms can rise and shift during battles, testing the agility and adaptability of fighters.
-- The annual festival is the Sanctum’s most famous event. Fighters from all over the [[00 - Aetheris Isles|Aetheris Isles]] (and sometimes beyond) gather to compete in tests of strength, skill, and endurance.
+- The annual festival is the Sanctum’s most famous event. Fighters from all over the [[Aetheris Isles|Aetheris Isles]] (and sometimes beyond) gather to compete in tests of strength, skill, and endurance.
 - Each year, the event begins with a Tide Blessing, where priests of the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/The Three Pillars#The Sea Pillar|Sea Pillar]] perform a ritual to ensure the sanctity of the battles.
 - The winner of the festival is rumored to gain the favor of the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/The Three Pillars#The Sea Pillar|Sea Pillar]], in addition to being scouted for recruitment as an [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Ascendant Wardens|Ascendant Warden]].
 - It is rumored that beneath the arena lies a hidden chamber connected to the Sea Pillar, containing relics or secrets tied to the island’s martial history. Accessing it is said to require the approval of the Sea Pillar itself.

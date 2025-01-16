@@ -6,5 +6,5 @@ type: entity
 aliases: 
 ---
 # Lore
-* The area encircled by the [[Floatstone Towers]] in the [[00 - Aetheris Isles|Aetheris Isles]].
+* The area encircled by the [[Floatstone Towers]] in the [[Aetheris Isles|Aetheris Isles]].
 * Within the Ascension Zone, unpurified [[floatstone]] rises naturally, creating a safe haven for sky farms, floating bastions, and airship docks. The field is self-regulating but requires periodic recalibration by skilled engineers and scholars.

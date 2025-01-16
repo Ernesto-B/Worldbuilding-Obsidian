@@ -7,12 +7,12 @@ aliases:
 ---
 # Description
 ![[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/attachments/Pasted image 20250110150738.png]]
-* Vorynth Island is the southeastern sentinel of the [[00 - Aetheris Isles|Aetheris Isles]], standing as a rugged, defiant land shaped by storms, turbulent seas, and a martial culture. Its jagged coastline and rough terrain have forged a population known for their resilience, discipline, and strength. The island's proximity to the [[Black Tides]] makes it both a strategic stronghold and a dangerous frontier.
+* Vorynth Island is the southeastern sentinel of the [[Aetheris Isles|Aetheris Isles]], standing as a rugged, defiant land shaped by storms, turbulent seas, and a martial culture. Its jagged coastline and rough terrain have forged a population known for their resilience, discipline, and strength. The island's proximity to the [[Black Tides]] makes it both a strategic stronghold and a dangerous frontier.
 * It is a land of dense forests and rolling hills. Its northern regions are slightly more temperate, while the southern coast faces relentless winds and storms blowing in from the [[Black Tides]].
 
 
 # Location
-- South-Eastern most island of the [[00 - Aetheris Isles|Aetheris Isles]]. 
+- South-Eastern most island of the [[Aetheris Isles|Aetheris Isles]]. 
 - It is surrounded by the [[Black Tides]] sea to its south, and is the only main island accessible from [[Westreach Port]].
 
 # Plot

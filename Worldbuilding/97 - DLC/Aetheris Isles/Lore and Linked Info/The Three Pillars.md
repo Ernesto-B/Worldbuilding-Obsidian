@@ -6,7 +6,7 @@ type: entity
 aliases: 
 ---
 # Lore
-The Three Pillars represent the foundation of life in the [[00 - Aetheris Isles|Aetheris Isles]]. Each Pillar is tied to an essential element of the Isles' survival—Sea, Sky, and Stone—and is worshipped through distinct practices and rituals. Each island in the archipelago has a temple to one of these deities, emphasizing their respective contributions to survival:
+The Three Pillars represent the foundation of life in the [[Aetheris Isles|Aetheris Isles]]. Each Pillar is tied to an essential element of the Isles' survival—Sea, Sky, and Stone—and is worshipped through distinct practices and rituals. Each island in the archipelago has a temple to one of these deities, emphasizing their respective contributions to survival:
 - On [[Kaelyth Island]]: Sky Pillar, the "Bringer of Winds"
 - On [[Vorynth Island]]: Sea Pillar, the "Keeper of Depths"
 - On [[Dremscar Island]]: Stone Pillar, the "Eternal Foundation"
