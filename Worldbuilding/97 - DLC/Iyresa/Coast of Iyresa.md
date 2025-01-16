@@ -20,15 +20,14 @@ aliases:
 
 
 # Other Key Locations
-- Caves
+- [[Onyx Caves]]
 - [[Port Phyrella]]
 - [[Iyresan Plains]]
-- Fishery Towns
+- [[Baytown]]
 - [[Cascadea]]
 - [[Stonefall]]
 - [[Cindral Mountains]]
 - [[Iyresan Bay]]
-- Ruins
 - Shrine
 
 # History
