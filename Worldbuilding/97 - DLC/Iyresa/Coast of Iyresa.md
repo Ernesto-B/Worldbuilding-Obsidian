@@ -24,7 +24,7 @@ aliases:
 
 # Detailed Notes
 ### Government Structure
-* 
+* The coast is governed democratically, with a voted council of 10 individuals from both the 
 
 ### Guilds
 * 
