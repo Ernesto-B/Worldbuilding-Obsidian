@@ -76,7 +76,7 @@ aliases:
 * Airship captains and merchants are highly respected and wield significant influence.
 
 ### Language and Naming
-- They speak the standard language of humans of [[Kingdom of Drakonia|Drakonia]].
+- They speak a dialect of Iyresan, spoken in the [[Coast of Iyresa]].
 
 ### Religion
 * Worship of [[The Three Pillars]].

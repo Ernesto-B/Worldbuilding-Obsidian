@@ -15,7 +15,7 @@ aliases:
 - Cindral Mountains:
 
 # Geographical Location and Features
-
+- Drought?
 
 # Lore
 
@@ -59,10 +59,12 @@ aliases:
 * 
 
 ### Trade and Economics
-* 
+* The main industries of the Coast is trading and tourism/traveling
+* Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), 
 
 ### Language and Naming
-* 
+* Standard Iyresan
+* ==Naming==
 
 ### Religion
 * 
