@@ -11,8 +11,8 @@ aliases:
 - Between the main cities and the mountains, Iyresa is made up of abundant plains which are home to medium-skilled [[monsters]].
 - To the west are numerous caves which are host to both precious ores and ferocious beasts that are no easy feat.
 - The Coast is a central hub which is host to many festivals and markets where lots of trading occurs. 
-- Iyresan Bay: an underwater plateau of shallow depth which was home to beastfolk cities and towns of ages past destroyed in wars. 
-- Cindral Mountains:
+- Iyresan Bay: an underwater plateau of shallow depth which was home to beastfolk cities and towns of ages past destroyed in wars. The bay is home to a myriad of fish who make their homes in the illuminated waters. 
+- Cindral Mountains: 
 
 # Geographical Location and Features
 - Drought?
