@@ -12,7 +12,7 @@ aliases:
 - To the west are numerous caves which are host to both precious ores and ferocious beasts that are no easy feat.
 - The Coast is a central hub which is host to many festivals and markets where lots of trading occurs. 
 - Iyresan Bay: an underwater plateau of shallow depth which was home to beastfolk cities and towns of ages past destroyed in wars. The bay is home to a myriad of fish who make their homes in the illuminated waters. 
-- Cindral Mountains: 
+- [[Cindral Mountains]]: jagged peaks acting as a barrier to the hot air coming from the SouthWest. 
 
 # Geographical Location and Features
 - Drought?
