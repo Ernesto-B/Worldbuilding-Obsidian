@@ -1,6 +1,6 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
-campaign: 
+date: 2025-01-17
+campaign: Wrath of Ul'Tirex
 arc: 
 type: Faction
 aliases: 
@@ -17,9 +17,3 @@ alingment:
 
 # Lore
 
-
-# Members
-```dataview
-LIST
-WHERE type = "NPC"
-```

@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2025-01-17
 campaign: 
 arc: 
 type: entity

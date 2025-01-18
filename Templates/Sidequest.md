@@ -1,6 +1,6 @@
 ---
 date: <% tp.date.now("YYYY-MM-DD") %>
-campaign: Wrath of Ul'Tirex
+campaign: 
 type: quest
 aliases: 
 ---
