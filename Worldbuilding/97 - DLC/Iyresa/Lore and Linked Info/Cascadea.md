@@ -1,12 +1,12 @@
 ---
 date: 2025-01-15
-campaign: Wrath of Ul'Tirex
+campaign:
 arc: 
 type: region or country
 aliases: 
 ---
 # Description
-
+- Cascadea is the upper city in the country of [[Coast of Iyresa]]
 
 # Geographical Location and Features
 
