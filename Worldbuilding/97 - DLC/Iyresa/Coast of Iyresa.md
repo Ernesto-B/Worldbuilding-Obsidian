@@ -1,6 +1,6 @@
 ---
 date: 2025-01-15
-campaign: Wrath of Ul'Tirex
+campaign: 
 arc: 
 type: region or country
 aliases: 
@@ -44,16 +44,20 @@ aliases:
 - A shrine was built southeast of the crater on an island. This shrine was meant for [[Beast People]] to come and pray when their loved ones were out fighting. 
 - The humans, knowing they were outnumbered, and the [[Beast People]], knowing they could not match the humans' offensive powers, eventually decided to call a ceasefire. This ceasefire lasted for a year before coming back together and declaring a truce, where both beings could co-exist. 
 - To this day, the truce remains and the beings co-exist peacefully with each other. 
+--- 
+- The Floating Landmass and Cascadea's Origin: The floating landmass that houses Cascadea is believed to have been suspended 62,000 years ago by an ancient and forgotten civilization. Legends suggest it was the result of a cataclysmic battle between two powerful deities, one seeking to destroy the world and another protecting it. The pit in the center of Cascadea's lake is rumored to be a remnant of the god's spear strike. Fragments of this civilization's arcane glyphs can still be found in Cascadea's undercity, which remains largely unexplored.
+- Stonefall's Struggles: The crater left by the landmass's dislodging gave rise to Stonefall, a city built from the ruins of the original settlement. Its earliest inhabitants were refugees and survivors of the cataclysm, struggling to adapt to a hostile environment. The city eventually became a haven for outlaws, mercenaries, and traders seeking to profit from Cascadea's splendor, leading to its current fractured society.
 
 
 # Detailed Notes
-### Government Structure
+### ==Government Structure==
 * The coast is a democratically run nation with a chair made up of 10 people. Of the 10, 5 come from [[Cascadea]], where each candidate is from a different [[Drift]], and 5 from [[Stonefall]], where each candidate is from a separate [[Hollow]].
 * Due of the diversity of the chair, internal conflict arises because of opposing interests and goals.
 * Internal conflicts leads to negligence in both cities, which results in crime lords arising in the lower [[Hollow|Hollows]]
 
 ### Guilds
-* 
+* [[The Gilded Compass]]: A prestigious merchant guild headquartered in Cascadea, controlling trade routes across the Black Tides and offering high-class auctions of rare artifacts, magical items, and exotic goods.
+* The [[Black Basin Syndicate]]: Operating out of Stonefall's lower Hollows, this guild runs smuggling operations, illegal trading, and an underground fighting ring.
 
 ### Social/Economic/Political Hierarchy (Class Structure)
 - Cascadean Elite: Wealthy merchants, adventurers, and entertainers. The rich enjoy lavish lifestyles with access to private auctions, feasts, and the best luxuries.
@@ -76,8 +80,8 @@ aliases:
 * ==Naming==
 
 ### Religion
-* The Hollow Flame: A darker faith among Stonefall's lower Hollows, emphasizing survival, ambition, and power through sacrifice. Shrines to the Hollow Flame burn deep within the city's labyrinthine alleys
-* 
+* [[The Hollow Flame]]: A darker faith among Stonefall's lower Hollows, emphasizing survival, ambition, and power through sacrifice. Shrines to the Hollow Flame burn deep within the city's labyrinthine alleys
+* [[The Three Pillars]]??
 
 ### Magic/Alchemy
 * Illusion
@@ -124,4 +128,5 @@ aliases:
 * 
 
 ### Adventuring Hooks
-* 
+* Forbidden Depths of Cascadea: The pit at Cascadea's center is off-limits, with rumors of ancient horrors or treasures lying beneath the lake.
+* Hidden Caverns in the Cindral Mountains: Some believe these caves house runic teleportation gates to other realms, guarded by elemental beings.
