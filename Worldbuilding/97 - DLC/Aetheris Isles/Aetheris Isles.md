@@ -51,7 +51,7 @@ aliases:
 ### Government Structure
 * The Aetheris Isles are ruled by a [[Council of Three]], with each member representing one of the main islands: [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Kaelyth Island|Kaelyth]], [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Vorynth Island|Vorynth]], and [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Dremscar Island|Dremscar]]. The council operates as a cooperative oligarchy, with decisions made through debate and majority vote. Each councilor oversees the governance of their respective island, including economic policies, guild oversight, and defense coordination.
 * Beneath the council, a network of guild representatives holds significant influence, as the guilds control much of the Isles' economy and technological advancements. These representatives advise the council on specialized matters, such as sky farming, airship technology, and tower maintenance.
-* The council's authority is balanced by the [[Temple Guardians]].A small religious order devoted to the Three Pillars. While they hold no formal political power, their spiritual influence ensures the council remains aligned with the Isles' traditions and values.
+* The council's authority is balanced by the [[Temple Guardians]]. A small religious order devoted to the Three Pillars. While they hold no formal political power, their spiritual influence ensures the council remains aligned with the Isles' traditions and values.
 * The Aetheris Isles' political structure values cooperation and balance, mirroring the harmony maintained between the islands, the [[Ascension Zone]], and their survival amidst the perilous seas.
 
 ### Guilds
