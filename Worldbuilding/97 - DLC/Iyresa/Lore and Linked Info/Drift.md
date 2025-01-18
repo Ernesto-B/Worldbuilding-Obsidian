@@ -7,7 +7,7 @@ aliases:
 ---
 
 # Description
-- A Drift is equivalent to a district, which is separated and enclosed by waterfalls and waterways surrounding the area. 
+- A Drift is equivalent to a district in the city of [[Cascadea]], which is separated and enclosed by waterfalls and waterways surrounding the area. 
 - There are 5 drifts, split into the entertainment, market & trading, scholar, government, and ==energy==.
 
 # Location
