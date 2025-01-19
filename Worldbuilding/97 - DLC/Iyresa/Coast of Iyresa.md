@@ -32,7 +32,7 @@ aliases:
 - [[Stonefall]]
 - [[Cindral Mountains]]
 - [[Iyresan Bay]]
-- Shrine
+- Shrine 
 
 # History
 - Iyresa was originally home to the [[Beast People]], who inhabited every inch of land east of the [[Cindral Mountains]].
@@ -107,16 +107,20 @@ aliases:
 * 
 
 ### Science, Medicine, and Technology
-* 
+* Runic Vehicles: Enchanted boats and carriages that use small runestones for propulsion and navigation. 
+* Clockwork Gadgets: The artisans of [[Stonefall]] craft intricate mechanical devices, such as auto-crossbows, lockpick tools, and even small automata for basic labor.
+- Mining Equipment: Magic-powered drills and carts used in the [[Cindral Mountains]] for extracting ores.
 
 ### Military, Secret Services, Conflict
-* The Coast does not have a military, due to being strictly a neutral nation that is sworn not to support any side in any conflict. However, due to the disparity between the livelihood in [[Cascadea]] and [[Stonefall]], it cannot be said that there are no underhand deals and decisions being made.
+* The Coast does not have a military, due to being strictly a neutral nation that is sworn not to support any side in any conflict. However, due to the disparity between the livelihood in [[Cascadea]] and [[Stonefall]], it cannot be said that there are no underhand deals and decisions being made. 
+* [[The Whispered Cloak]]: Based in Cascadea, this organization works directly for the Cascadian Chair. Tasked with intelligence gathering, espionage, and eliminating threats to Cascadea's reputation. Members are masters of disguise, often using illusion and shadow magic to infiltrate rival guilds or foreign governments.
+* [[The Black Hollows]]: A secretive faction within Stonefall’s criminal underworld, rumored to act as both informants and enforcers of any willing employers. They control the city’s black market and use brute force, bribery, or sabotage to maintain dominance.
 
 ### The Supernatural/Myths/Legends
 * 
 
 ### Architecture/Civic Planning
-* 
+* Densely constructed with East-Asian (China/Japan) architecture
 
 ### Aging & Pregnancy
 * 
