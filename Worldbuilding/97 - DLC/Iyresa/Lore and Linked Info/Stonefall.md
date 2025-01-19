@@ -18,11 +18,11 @@ aliases:
 - 
 
 # Key Locations
-- **The Sunlit Crown (First [[Hollow]]):**
+- **[[Pasted image 20250119014401.png|The Sunlit Crown]] (First [[Hollow]]):**
     - Perched at the top of the crater, the Sunlit Crown enjoys the rare blessing of full sunlight. This district is home to Stonefall’s wealthiest citizens, influential merchants, and members of the ==Council of Hollows==, who govern the city with varying degrees of corruption.
     - Streets are lined with well-maintained stone buildings adorned with ornate carvings and magical lanterns. Lavish markets sell high-quality goods imported from Cascadea, though they come at exorbitant prices.
     - Guard presence is strong, and only those with proper documentation or bribes can ascend to this Hollow.
-- **The Azure Steps (Second [[Hollow]]):**
+- **[[Pasted image 20250119014655.png|The Azure Steps]] (Second [[Hollow]]):**
     - A bustling middle-class district, where skilled artisans, tradespeople, and merchants ply their crafts. This Hollow is named for the Azure Aqueducts, a network of enchanted water channels that wind through the streets, delivering fresh water to the upper Hollows.
     - The air is thick with the scent of forges, workshops, and food stalls, as residents work tirelessly to cater to the demands of the wealthier layers. While relatively safe, the Azure Steps still struggle with occasional thefts and disputes.
 - **The Ember Ring (Third [[Hollow]]):**

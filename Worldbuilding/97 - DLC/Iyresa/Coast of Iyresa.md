@@ -56,7 +56,7 @@ aliases:
 
 ### Guilds
 * [[The Gilded Compass]]: A prestigious merchant guild headquartered in Cascadea, controlling trade routes across the Black Tides and offering high-class auctions of rare artifacts, magical items, and exotic goods.
-* The [[Black Basin Syndicate]]: Operating out of Stonefall's lower Hollows, this guild runs smuggling operations, illegal trading, and an underground fighting ring.
+* The [[Black Basin Syndicate]]
 
 ### Social/Economic/Political Hierarchy (Class Structure)
 - Cascadean Elite: Wealthy merchants, adventurers, and entertainers. The rich enjoy lavish lifestyles with access to private auctions, feasts, and the best luxuries.
