@@ -9,13 +9,13 @@ aliases:
 
 
 # Location
-
+- West of the major cities [[Cascadea]] & [[Stonefall]].
 
 # Plot
 
 
 # Key Locations
-
+- 
 
 # History
 
