@@ -16,7 +16,7 @@ aliases:
 
 
 # Key Locations
-
+- Travelling merchant's ship that appears once a week, who provides valuable information/materials. 
 
 # History
 
@@ -25,4 +25,4 @@ aliases:
 - Suspicious Smuggling Operations: Smugglers from other nations seek to sell banned items, relics, and substances, which leads to disruptions in the cities of [[Stonefall]] and [[Cascadea]]. However, this operation seems to be planned by another nation to be able to take advantage of the [[Coast of Iyresa]] while it is dealing with this internal crises. 
 - Shipwreck survivors: A damaged ship from the unknown arrives and the survivors claim to have ran into an undiscovered island with many dangers but also bountiful treasures. 
 - Pirate attack: Pirates arrive from hostile nations and hold other ships ransom, otherwise the ships and the valuables on them will be destroyed.
-- Rebellion Brewing: Revolutionaries use the port to smuggle weapons and rally support, threatening the stability of the city.
+- Rebellion Brewing: Revolutionaries of [[Coast of Iyresa|Iyresa]] use the port to smuggle weapons and rally support, threatening the stability of the city.
