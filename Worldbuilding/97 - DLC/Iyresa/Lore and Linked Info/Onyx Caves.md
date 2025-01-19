@@ -12,13 +12,14 @@ aliases:
 - West of the major cities [[Cascadea]] & [[Stonefall]].
 
 # Plot
-
+- ==Reported sightings of humanoid like creatures in the caves have been rumoured but not investigated==. 
 
 # Key Locations
 - 
 
 # History
-
+- These ancient caves were formed unknowingly after the appearance of the massive crater that formed [[Stonefall]]. Nobody knows how they were formed, and many that have ventured deep into the caves did not return.
+- Only the areas near the surface have been explored as the threat of dangerous monsters repels adventurers from venturing into the caves. 
 
 ### Adventuring Hooks
 - ==Lost civilization lives here??==
