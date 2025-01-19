@@ -56,7 +56,7 @@ aliases:
 
 ### Guilds
 * The [[Ascendant Guild]]
-* Adventurer’s Guild
+* [[Adventurer's Guild]]
 * [[Airship Guild]]
 
 ### Social/Economic/Political Hierarchy (Class Structure)

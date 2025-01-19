@@ -57,6 +57,7 @@ aliases:
 ### Guilds
 * [[The Gilded Compass]]: A prestigious merchant guild headquartered in Cascadea, controlling trade routes across the Black Tides and offering high-class auctions of rare artifacts, magical items, and exotic goods.
 * The [[Black Basin Syndicate]]
+* [[Adventurer's Guild]]
 
 ### Social/Economic/Political Hierarchy (Class Structure)
 - Cascadean Elite: Wealthy merchants, adventurers, and entertainers. The rich enjoy lavish lifestyles with access to private auctions, feasts, and the best luxuries.
@@ -114,7 +115,6 @@ aliases:
 ### Military, Secret Services, Conflict
 * The Coast does not have a military, due to being strictly a neutral nation that is sworn not to support any side in any conflict. However, due to the disparity between the livelihood in [[Cascadea]] and [[Stonefall]], it cannot be said that there are no underhand deals and decisions being made. 
 * [[The Whispered Cloak]]: Based in Cascadea, this organization works directly for the Cascadian Chair. Tasked with intelligence gathering, espionage, and eliminating threats to Cascadea's reputation. Members are masters of disguise, often using illusion and shadow magic to infiltrate rival guilds or foreign governments.
-* [[The Black Hollows]]: A secretive faction within Stonefall’s criminal underworld, rumored to act as both informants and enforcers of any willing employers. They control the city’s black market and use brute force, bribery, or sabotage to maintain dominance.
 
 ### The Supernatural/Myths/Legends
 * 
