@@ -6,11 +6,8 @@
 - If a theocracy, how are people of other cultures/beliefs treated? How are non-believers treated?
 - How content are the common people with their current government? How aware are they of upper level politics?
 
-  
-
 # Guilds
-
-  
+- 
 
 # Social/Economic/Political Hierarchy (Class Structure)
 - Number of class levels, as well as equivalent levels in different spheres of influence
@@ -58,7 +55,6 @@
 - Is there more than one religion in your world or in this country/culture
 - How fanatical are the followers
 - How familiar is the common lay-person with technical aspects of their theology?
-
 - Does your culture, or a subset of your culture, believe in deities as beings with power? 
 - Number of deities, their genders, their physical traits
 - Regularity of church services, differences between regular services and feasts/festivals/holy days   
@@ -70,7 +66,6 @@
 - Gender of priesthood
 - Names/terms/titles for buildings, officials, ceremonies, etc.
 - Level of involvement in secular politics, or is it a theocracy
-
 - Marriage traditions and views on divorce from a religious perspective
 - Birth/naming traditions within the religion
 - How do religious leaders handle blasphemy?
@@ -194,184 +189,88 @@
 
 # The Military & Secret Services
 - How large is the military? How much of it is land, air, or sea based? How much of the land based army is foot soldiers vs calvary (or tanks and other vehicles depending on tech levels)? How much of the military is always military (standing army) vs how much is “in times of need only” (reserves or hastily trained in emergencies)
-    
 - Training
-    
 - Military hierarchy: chain of command, who do they swear oaths of loyalty or service to, how do different military ranks compare to political or religious ranks
-    
 - When not at war what role does the military play in society?
-    
 - What separates the military from the law enforcement agencies? Is there any overlap?
-    
 - How do people of different classes or sects (church, magic users, scientists, common people, etc) view the military, military research, and war in general?
-    
 - What is the tech level of the offensive and defensive tools used by the military? Strictly science/tech or blended with magic?
-    
 - How much money does the government spend on the military (wages, research, weapon building, etc)?
-    
 - Are soldiers/knights responsible for any of the costs they accrue (buying their own weapons, armor, ammunition, horse, paying for damages, etc)?
-    
 - Are they aware of PTSD? What do they call it? How do they treat it? Do people ever deny it’s a thing or deny how serious it can be?
-    
 - If magic is real in your society, are mages/magic users allowed to join the military? Are they forced to? All of them or just those with “useful” talents?
-    
 - How much are military members paid? Does this increase during times of active duty? If there’s no war are they paid at all?
-    
-
-  
-
 - What about military or political spies? Do they exist? How are they selected and trained?
-    
 - What about handlers? People to handle the data that comes back?
-    
 - Is spying a regular thing or only during times of open conflict?
-    
 - What about cyber-spying? Data mining?
-    
-
-  
 
 # The Supernatural/Myths/Legends
-
 - Do creatures we view as “supernatural” or “fictional” in our world exist in your world as fiction or real beings?
-    
 - Does their existence affect law enforcement?
-    
 - How are the fictional stories about them viewed?
-    
 - What about beings such as “the tooth fairy”, “Santa Claus” or “The Easter Bunny”? Do you have similar fantastical beings tied to holidays, life events, gift giving, etc? Are they real or just stories? 
-    
 - Fairy Tales, legends, myths, old wives tales, parables
-    
 - Do you have a “lost” city or civilization (Atlantis, Shangri-la, etc)?
-    
-
-  
 
 # Architecture/Civic Planning
-
 - What building materials are available based on geography? What building materials are available based on tech level (smelting quality, power tools, etc)?
-    
 - What architectural style are you basing your society on?
-    
 - How does geography and local climate affect your buildings?
-    
 - How do households and businesses bring water in?
-    
 - How do households and businesses dispose of waste?
-    
 - How do cities, towns, municipalities dispose of waste?
-    
 - Rural/urban divide
-    
 - Roads
-    
 - Transportation
-    
 - Travel laws
-    
 - Decorative architecture such as statues, parks, murals, etc.
-    
 - Permissions/Codes/Permits
-    
 - Communications Networks - what is available? Who has access? How reliable is it?
-    
 - Postal Service - does it exist? How formal is it? How are messages carried/moved?
-    
-
-  
 
 # Trade
-
 - Trade within the country/region’s borders - do different regions produce different resources? Which ones? How valuable are they? How are they moved?
-    
 - What do local markets look like? How is it different between rural and urban regions? Is it a daily or weekly market? 
-    
 - Trade between countries/regions - how is it regulated? Are there specific resources they are allowed or forbidden to trade?
-    
 - What does the country’s currency look like?
-    
 - How is the “exchange rate” between different countries with different currency handled?
-    
 - Is there direct trade (6 eggs for a dozen potatoes; 4 chickens and a pregnant pig for a young milk cow, etc) or trade for money or both? 
-    
 - Are there banks?
-    
 - Are there merchant or craft guilds?
-    
-
-  
 
 # Aging & Pregnancy
-
 - Physical Questions - what is the average life expectancy of this species? How long does a pregnancy last? At what age do they hit puberty? At what age are they physically mature? What is the physical reproductive process for this species?
-    
 - At what ages are they considered:
-    
-
 - Infant
-    
 - Toddler
-    
 - Child
-    
 - Youth/Teen
-    
 - Legal adult
-    
 - Middle-aged
-    
 - Senior/elderly
-    
 - Old
-    
-
 - Are there special celebrations to mark transitions between life stages? 
-    
 - Are there jobs or tasks within the community that are required of or reserved for specific age groups?
-    
 - How is aging viewed within the community?
-    
 - What physical changes occur during the aging process?
-    
 - At what age can the childbearing members of society physically begin bearing children? 
-    
 - How concerned are they about parentage/lineage/who the father is? How do they view pregnancy outside of marriage/cohabitation?
-    
 - Under what circumstances is a pregnancy celebrated? When would it be viewed as a negative?
-    
 - Are there special celebrations to mark a birth? When are children named?
-    
 - How involved in the pregnancy are other family/community members ? How involved are they in the birth? Who gets to be “in the room” when the birth occurs?
-    
 - Are there superstitions around pregnancy, birth, or naming babies? Religious requirements? What are the “consequences” of flaunting these non-medical traditions?
-    
 
-  
-
-Marriage
-
+# Marriage
 - Who are they allowed to marry 
-    
 - What are the legal requirements and/or benefits of marriage? What rights does a spouse have? In what situations?
-    
 - How formal is the wedding service?
-    
-
 - How are widows/widowers treated? How are divorcees treated? Does their age/gender affect how they are treated?
-    
 - For what reasons, if any, is divorce allowed?
-    
 - Are there special celebrations to mark marriage anniversaries?
-    
 - Are people allowed to or even required to live together before having a formal marriage or before their union is recognized?
-    
 - How many spouses can a person have under the law? Under religious tradition?
-    
 - What about consorts? Mistresses or lovers? 
-    
-
-  
 
 # Death, Funerals, and the Afterlife
 - Does your culture believe in an afterlife? What does it look like?
