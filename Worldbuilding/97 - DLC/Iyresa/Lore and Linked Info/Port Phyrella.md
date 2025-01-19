@@ -20,3 +20,6 @@ aliases:
 
 # History
 
+
+### Adventuring Hooks
+- Suspicious Smuggling Operations: Smugglers from other nations seek to sell banned items, relics, and substances, which leads to 
