@@ -48,7 +48,6 @@ aliases:
 - ==The Floating Landmass and Cascadea's Origin: The floating landmass that houses Cascadea is believed to have been suspended 62,000 years ago by an ancient and forgotten civilization. Legends suggest it was the result of a cataclysmic battle between two powerful deities, one seeking to destroy the world and another protecting it. The pit in the center of Cascadea's lake is rumored to be a remnant of the god's spear strike. Fragments of this civilization's arcane glyphs can still be found in Cascadea's undercity, which remains largely unexplored.==
 - Stonefall's Struggles: The crater left by the landmass's dislodging gave rise to Stonefall, a city built from the ruins of the original settlement. Its earliest inhabitants were refugees and survivors of the cataclysm, struggling to adapt to a hostile environment. The city eventually became a haven for outlaws, mercenaries, and traders seeking to profit from Cascadea's splendor, leading to its current fractured society.
 
-
 # Detailed Notes
 ### ==Government Structure==
 * The coast is a democratically run nation with a chair made up of 10 people. Of the 10, 5 come from [[Cascadea]], where each candidate is from a different [[Drift]], and 5 from [[Stonefall]], where each candidate is from a separate [[Hollow]].
