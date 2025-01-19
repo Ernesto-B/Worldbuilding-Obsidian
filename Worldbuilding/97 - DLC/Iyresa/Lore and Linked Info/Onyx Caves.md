@@ -1,5 +1,5 @@
 ---
-date: 2025-01-18
+date: 2025-01-19
 campaign: 
 arc: 
 type: location
@@ -19,3 +19,5 @@ aliases:
 
 # History
 
+
+### Adventuring Hooks
