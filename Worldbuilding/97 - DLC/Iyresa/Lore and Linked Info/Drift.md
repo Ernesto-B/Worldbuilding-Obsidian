@@ -21,3 +21,6 @@ aliases:
 
 # History
 
+
+### Adventuring Hooks
+
