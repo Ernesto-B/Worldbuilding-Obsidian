@@ -69,11 +69,11 @@ aliases:
 
 ### Trade and Economics
 * The main industries of the Coast is trading and tourism/traveling, and entertainment.
-* Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), mining, and purchases on any mosaic of magic items, alchemy and knowledge, and magic education of Illusion and Healing. 
+* Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), mining, and purchases on any mosaic of magic items, alchemy and knowledge, and magic education of Healing. 
 * Export ores, and magic tools
 * Port Phyrella: One of the busiest ports in the world, handling everything from massive merchant ships to smaller smuggling vessels.
 * Stonefall's Black Markets: A hub for forbidden goods—stolen relics, counterfeit potions, and illicit substances.
-* Some merchants use illusion spells to make their wares more appealing.
+* Very few skilled merchants use illusion spells to make their wares more appealing.
 
 ### Language and Naming
 * Standard Iyresan
