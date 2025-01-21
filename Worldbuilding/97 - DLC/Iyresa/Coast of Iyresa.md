@@ -70,15 +70,14 @@ aliases:
 
 ### Trade and Economics
 * The main industries of the Coast is trading and tourism/traveling, and entertainment.
-* Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), mining, and purchases on any mosaic of magic items, alchemy and knowledge, and magic education of Healing. 
+* Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), mining, and purchases on any mosaic of magic items, runic technology and knowledge.
 * Export ores, and magic tools
-* Port Phyrella: One of the busiest ports in the world, handling everything from massive merchant ships to smaller smuggling vessels.
-* Stonefall's Black Markets: A hub for forbidden goods—stolen relics, counterfeit potions, and illicit substances.
+* [[Port Phyrella]]: One of the busiest ports in the world, handling everything from massive merchant ships to smaller smuggling vessels.
+* [[Stonefall]]'s Black Markets: A hub for forbidden goods—stolen relics, counterfeit potions, and illicit substances.
 * Very few skilled merchants use illusion spells to make their wares more appealing.
 
 ### Language and Naming
 * Standard Iyresan
-* ==Naming==
 
 ### Religion
 * [[The Hollow Flame]]
@@ -114,7 +113,6 @@ aliases:
 
 ### Military, Secret Services, Conflict
 * The Coast does not have a military, due to being strictly a neutral nation that is sworn not to support any side in any conflict. However, due to the disparity between the livelihood in [[Cascadea]] and [[Stonefall]], it cannot be said that there are no underhand deals and decisions being made. 
-* [[The Whispered Cloak]]: Based in Cascadea, this organization works directly for the Cascadian Chair. Tasked with intelligence gathering, espionage, and eliminating threats to Cascadea's reputation. Members are masters of disguise, often using illusion and shadow magic to infiltrate rival guilds or foreign governments.
 
 ### The Supernatural/Myths/Legends
 * 
@@ -132,7 +130,7 @@ aliases:
 * 
 
 ### Adventuring Hooks
-* Forbidden Depths of Cascadea: The pit at Cascadea's center is off-limits, with rumors of ancient horrors or treasures lying beneath the lake.
-* Hidden Caverns in the Cindral Mountains: Some believe these caves house runic teleportation gates to other realms, guarded by elemental beings.
-* Trade Rivalry: A wealthy Cascadean merchant hires adventurers to sabotage a rising rival in Stonefall, igniting tension between the cities.
-* Monsters in the Plains: Increasing monster attacks threaten Iyresa’s trade routes, hinting at a deeper disturbance in the land.
+* Forbidden Depths of [[Cascadea]]: The pit at Cascadea's center is off-limits, with rumors of ancient horrors or treasures lying beneath the lake.
+* Hidden Caverns in the[[ Cindral Mountains]]: Some believe these caves house runic teleportation gates to other realms, guarded by elemental beings.
+* Trade Rivalry: A wealthy Cascadean merchant hires adventurers to sabotage a rising rival in [[Stonefall]], igniting tension between the cities.
+* Monsters in the [[Iyresan Plains]]: Increasing monster attacks threaten Iyresa’s trade routes, hinting at a deeper disturbance in the land.
