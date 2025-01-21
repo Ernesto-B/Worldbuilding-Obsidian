@@ -47,7 +47,7 @@ aliases:
 * 
 
 ### Trade and Economics
-* 
+* Mega trade.
 
 ### Language and Naming
 * 
@@ -71,10 +71,20 @@ aliases:
 - Punishments range from fines and exile to imprisonment in magical cells beneath the Flowing Drift.
 
 ### Organized Crime
-* The [[Black Basin Syndicate]]
+* The [[Black Basin Syndicate]]: The Syndicate smuggles contraband into Cascadea, including rare magical artifacts, forbidden enchantments, and illegal substances. They use secret routes through the Flowing Drift to bypass inspections and exploit the water cycle for transportation. The Velvet Drift is a hotspot for their influence, where they manage high-stakes gambling, blackmail operations, and recruitment through entertainment venues.
+* Council Corruption: Corrupt council members secretly collaborate with the Syndicate to consolidate power or eliminate rivals. They hire skilled adventurers, entertainers, and escorts to seduce, blackmail, or assassinate opponents, ensuring plausible deniability and leaving little evidence behind. These plots often involve elaborate setups, such as framing a rival for embezzlement or orchestrating a public scandal. Their operations in Cascadea are clean, quiet, and calculated. They avoid brute force, relying instead on manipulation, espionage, and social engineering.
+* High-Profile Scandals: The Syndicate and its allies exploit Cascadea’s love for drama, using the city's gossip networks and performances to ruin reputations. Key figures within the Syndicate often masquerade as merchants, performers, or minor council aides, embedding themselves within Cascadea’s elite.
 
 ### Education
-* 
+* **The Luminal Academy:**
+    - A prestigious academy for magic and scholarly studies, offering education in runic magic, elemental control, and Cascadea’s history.
+    - Students include wealthy human children and a handful of talented beastfolk sponsored by patrons.
+    - The academy also serves as a research institution, studying the glyphs and mysteries of the Heartfall.
+- **The Grand Conservatory:**
+    - An elite school for the performing arts, located in the Velvet Drift. It produces the most renowned actors, musicians, and dancers in the region.
+    - Graduates often secure lucrative positions as entertainers in Cascadea or as cultural ambassadors abroad.
+- Trade Guild Training:
+    - The Gilded Compass offers practical education for merchants, including negotiation tactics, market analysis, and basic enchantments to enhance goods.
 
 ### Inter-racial relations
 * 
@@ -83,17 +93,21 @@ aliases:
 * 
 
 ### Science, Medicine, and Technology
-* 
+* ==Runes?==
 
 ### Military, Secret Services, Conflict
-* 
+* Most of Cascadea’s conflicts occur behind closed doors, involving political schemes, blackmail, and covert assassinations.
+* Pirates and rival nations occasionally target Cascadea’s trade routes, though they rarely succeed due to the fact that sailing through the [[Black Tides]] requires adventurers to escort the ships. Since there is no telling how strong the adventurers will be, it is risky for pirates to act and expose themselves on the sea. 
+* Land routes are more susceptible to being plundered due to being less dangerous than travel by the [[Black Tides]], but lucrative or worried merchants and traders will often hire adventurers as guards.
+* Due to the relatively small size of the country, as well as the fact there they are politically neutral, there is little worry of international conflict or tensions rising. 
+* While relations between humans and beastfolk are better in Cascadea than in Stonefall, some beastfolk feel they are still treated unfairly, leading to small but growing protests.
 
 ### The Supernatural/Myths/Legends
 * The city’s unique water system is both a wonder and a mystery: The pit at the lake's center, called the **Heartfall**, is believed to be tied to the landmass’s suspension. Scholars theorize that the water cycle is maintained by a combination of ancient magic and an unseen magnetic or gravitational force.
 - The **Inverse Falls**, where water flows upward to Cascadea, are a global marvel. Many believe these waterfalls are sacred, symbolizing the cycle of life and renewal.
 
 ### Architecture/Civic Planning
-* 
+* East-Asian designs, with pagoda-style roofs, orange lanterns casting warm light, tatami mats, and arching wooden bridges spanning the shallow lake that covers the landmass. Navigation is done by walking on narrow, wooden streets or using East-Asian-style canoes to traverse the lake’s waterways.
 
 ### Aging & Pregnancy
 * 
