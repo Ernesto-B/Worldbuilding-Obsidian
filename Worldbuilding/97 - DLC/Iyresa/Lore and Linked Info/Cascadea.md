@@ -18,10 +18,10 @@ aliases:
 
 
 # Other Key Locations
-- Cascadea’s five Drifts serve specific roles in the city’s daily life and economy, ensuring a harmonious coexistence of activities rather than class divisions. Each Drift contributes uniquely to the city’s reputation as the pinnacle of entertainment and culture:
+- Cascadea’s five [[Drift]]s serve specific roles in the city’s daily life and economy, ensuring a harmonious coexistence of activities rather than class divisions. Each Drift contributes uniquely to the city’s reputation as the pinnacle of entertainment and culture:
 	- **The Golden Drift** (Commerce and Trade): The city’s bustling marketplace and trade hub, where high-end goods, luxury items, and rare magical artifacts are bought and sold. Includes the **Celestial Auction Hall**, where the wealthiest merchants and adventurers bid on treasures from across the world.
 	- **The Velvet Drift** (Pleasure and Entertainment): Renowned for its theaters, bathhouses, gambling halls, and tea houses. The Velvet Drift is the beating heart of Cascadea’s fame as a city of pleasure. Features the **Grand Pavilion**, an enormous open-air theater hosting magical performances, concerts, and plays.
-	- **The Silver Drift** (Governance and Administration): Houses Cascadea’s government buildings, including the **Council Chambers**, where the city’s ==Ethereal Court== deliberates and makes decisions. Includes embassies for other nations, as Cascadea serves as a neutral ground for diplomacy. Administrative offices oversee taxation, infrastructure, and the maintenance of the water cycle system.
+	- **The Silver Drift** (Governance and Administration): Houses Cascadea’s government buildings, including the **Council Chambers**, where the city’s court deliberates and makes decisions. Includes embassies for other nations, as Cascadea serves as a neutral ground for diplomacy. Administrative offices oversee taxation, infrastructure, and the maintenance of the water cycle system.
 	- **The Spirit Drift** (Culture and Religion): Dedicated to preserving Cascadea’s cultural and spiritual identity, the Azure Drift is home to grand libraries, galleries, and the **Temple of the Flowing Cycle**, which honors the mysterious force that powers the floating landmass. Scholars and historians work tirelessly here to study the glyphs and ruins scattered across the landmass.
 	- **The Flowing Drift** (Logistics and Infrastructure): Serves as the backbone of Cascadea’s functionality, managing waste disposal, water flow, and supplies. Includes the **Waterspire Foundry**, where enchanted tools and materials are crafted to maintain the city’s systems. While not glamorous, the Obsidian Drift is essential to the city’s survival, and its workers are respected for their vital contributions.
 - The division of Drifts by purpose rather than social class fosters a sense of equality among Cascadea’s residents. Whether one works in governance, trade, or entertainment, all contribute to the city’s prosperity and share in its luxuries. This cultural unity is a source of pride for Cascadeans, setting their city apart from the stratified society of Stonefall.
@@ -31,7 +31,7 @@ aliases:
 
 # Detailed Notes
 ### Government Structure
-* 
+* The city is governed by the [[Council of Drifts]]
 
 ### Guilds
 * [[The Gilded Compass]]
@@ -71,7 +71,7 @@ aliases:
 - Punishments range from fines and exile to imprisonment in magical cells beneath the Flowing Drift.
 
 ### Organized Crime
-* 
+* The [[Black Basin Syndicate]]
 
 ### Education
 * 
@@ -106,4 +106,7 @@ aliases:
 
 ### Adventuring Hooks
 * Water regulation and recycling goes wrong in the Flowing Drift. 
-* [[Stonefall]]'s [[Black Basin Syndicate]]s plan an intrecate plan to smuggle unknown precious cargo from a 
+* [[Stonefall]]'s [[Black Basin Syndicate]]s plan an intricate plan to smuggle unknown precious goods from a merchant selling their wares in the Golden Drift.
+* Beastfolk or the [[Black Basin Syndicate]] attack/steal from a prestigious event in the Celestial Auction Hall.
+* A member of the [[Council of Drifts]] hires a group of escorts to seduce another council member and get rid of him.
+* Wrongly convicted of a crime, the party gets sent to prison: the Black Depths in [[Stonefall]] (the deepest, fifth Hollow).
