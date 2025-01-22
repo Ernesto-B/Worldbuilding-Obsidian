@@ -20,15 +20,16 @@ aliases:
 
 # Other Key Locations
 - **Echoeside (Entertainment [[Drift]]):**
-    - Echoeside, a bustling drift, is host to many of the top talent and entrepreneurs of the country. Streets are lined with concessions, shows, 
+    - Echoeside, a bustling drift, is host to many of the top talent and entrepreneurs of the country. Streets are lined with concessions, shows, restaurants, and brothels.
+    -  
 - **Sagehaven (Scholar [[Drift]]):**
-    - h
+    - 
 - **Eryndral (Government  [[Drift]]):**
     - 
 - **Voltaryn (Energy [[Drift]]):**
-    - y
+    - 
 - **Auralith (Market [[Drift]]):**
-    - df
+    - 
 
 # History
 
