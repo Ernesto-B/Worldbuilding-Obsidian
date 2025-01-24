@@ -1,15 +1,5 @@
 # Items
-- "Cursed" Jar - Jar of the Cursed Souls
-	- Sent of millions of dead
-	- Found in the Grand wizard's tower
-	- Possible effects
-		- instantly moves creatures 10 ft away from sheer scent
-		- Con save when smelled
-	- Refill the jar
-		- Boost stats when complete "Post nut Clarity"
-- Ancient Wizard "Essence"
-	- Soul Bound
-	- Grants Strength
+- 
 
 # Gameplay
 - Campfire stories
@@ -23,9 +13,10 @@
 
 # Story
 - Kpop Elves
-- Same story, different perspective
+
 ## Django Campaign
 - start from slavery, go to Canada
+
 ## Time Loop Campaign
 - Play a one shot
 - Start the Next session at the same place as session 1

@@ -6,18 +6,19 @@ type: location
 aliases: 
 ---
 # Description
-
+- 
 
 # Location
-
+- 
 
 # Plot
-
+- 
 
 # Key Locations
-
+-  
 
 # History
+- 
 
-
-### Adventuring Hooks
+# Adventuring Hooks
+- 
