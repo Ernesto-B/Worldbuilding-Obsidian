@@ -48,6 +48,17 @@ The system is built from the ground up with extensibility as a core principle, e
 |NFR-04|The platform must prioritize a user-friendly interface with smooth map navigation and intuitive content editing.|
 |NFR-05|Data access permissions must be strictly enforced based on user roles and campaign visibility rules.|
 
+### MVP Tech Stack
+
+| Component            | Tech                                                                |
+| -------------------- | ------------------------------------------------------------------- |
+| Backend              | Python (FastAPI)                                                    |
+| Frontend             | React + Leaflet.js                                                  |
+| Database             | MySQL (+ MongoDB)                                                   |
+| Auth                 | OAuth + JWT                                                         |
+| Architecture         | Layered (Router -> Controller -> Service -> Repository/Persistence) |
+| Map/Paths (Frontend) | Leaflet.js + Leaflet.Draw                                           |
+
 ### Key System Considerations, and Goals
 - **Session-Based Visibility:** Cross-campaign visibility logic ensuring players can only see up to their latest session; DMs see everything.
 - **Nested Wiki Structure:** Locations act as hubs containing NPCs, items, shops, and lore.
