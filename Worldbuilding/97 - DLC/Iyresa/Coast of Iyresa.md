@@ -134,3 +134,4 @@ aliases:
 * Hidden Caverns in the[[ Cindral Mountains]]: Some believe these caves house runic teleportation gates to other realms, guarded by elemental beings.
 * Trade Rivalry: A wealthy Cascadean merchant hires adventurers to sabotage a rising rival in [[Stonefall]], igniting tension between the cities.
 * Monsters in the [[Iyresan Plains]]: Increasing monster attacks threaten Iyresa’s trade routes, hinting at a deeper disturbance in the land.
+
