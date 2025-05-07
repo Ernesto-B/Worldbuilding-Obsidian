@@ -115,7 +115,7 @@ aliases:
 * The Coast does not have a military, due to being strictly a neutral nation that is sworn not to support any side in any conflict. However, due to the disparity between the livelihood in [[Cascadea]] and [[Stonefall]], it cannot be said that there are no underhand deals and decisions being made. 
 
 ### The Supernatural/Myths/Legends
-* 
+* Michael Jackson??
 
 ### Architecture/Civic Planning
 * Densely constructed with East-Asian (China/Japan) architecture
