@@ -89,7 +89,7 @@ aliases:
 * Tool Enhancement
 
 ### Legal System
-* 
+* (See [[Cascadea]] and the [[Council of Drifts]])
 
 ### Organized Crime
 * Organized crime has risen in the lower [[Hollow|Hollows]], such as smuggling, kidnapping, drug dealing, thievery, illegal use of magical items, and manslaughter.
@@ -115,7 +115,7 @@ aliases:
 * The Coast does not have a military, due to being strictly a neutral nation that is sworn not to support any side in any conflict. However, due to the disparity between the livelihood in [[Cascadea]] and [[Stonefall]], it cannot be said that there are no underhand deals and decisions being made. 
 
 ### The Supernatural/Myths/Legends
-* 
+* Michael Jackson
 
 ### Architecture/Civic Planning
 * Densely constructed with East-Asian (China/Japan) architecture
@@ -134,3 +134,4 @@ aliases:
 * Hidden Caverns in the[[ Cindral Mountains]]: Some believe these caves house runic teleportation gates to other realms, guarded by elemental beings.
 * Trade Rivalry: A wealthy Cascadean merchant hires adventurers to sabotage a rising rival in [[Stonefall]], igniting tension between the cities.
 * Monsters in the [[Iyresan Plains]]: Increasing monster attacks threaten Iyresa’s trade routes, hinting at a deeper disturbance in the land.
+

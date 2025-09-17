@@ -4,5 +4,13 @@
   "showUnsupportedFiles": false,
   "readableLineLength": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "promptDelete": false
 }
