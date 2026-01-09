@@ -12,14 +12,12 @@
 
 
 ## Main Adventures
-- Great Storm
-- 
+- Great Storm 
 
 ## Final Boss
-- In the end, a young blue dragon (MM p50) was behind the storm. Previous adventuring parties had successfully found the beast but none came back alive, thus nobody knowing of its existence. 
+- In the end, a young blue dragon (MM p50) named [another menacing name] was behind the storm. Previous adventuring parties had successfully found the beast but none came back alive, thus nobody knowing of its existence. 
 - Due to having fought strong adventuring parties since the [[Council of Three]] made their statement and began bringing in parties from beyond the [[Black Tides]], the dragon has still-healing gashes and punctures from previous wounds. This has made him furious, and even more dangerous. 
-- Young Blue Dragons seek to establish themselves as forces to be feared. Many claim ancient ruins where they might find magical paths to power. This blue dragon has cooperated with a powerful villain to gain followers and influence. 
-- Wounded young blue dragon
+- Young Blue Dragons seek to establish themselves as forces to be feared. Many claim ancient ruins where they might find magical paths to power. This blue dragon has cooperated with a powerful villain who had promised him followers and influence in the Isles. 
 
 ## Possible Connections to Next Arc
-- Young blue dragon 
+- Young blue dragon retreats before being killed. 
