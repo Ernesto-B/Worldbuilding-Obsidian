@@ -12,7 +12,7 @@
 
 ## Main Adventures
 - [[Great Storm Adventure]]
-- 
+- [[Inherited Pursuit Adventure]]
 - Push back the hoard the [[Underground Labyrinth]] - since all the high ranking adventurers are out trying to find and fight the cause of the Great Storm, only the weaker or untested adventurers are left to hold back the imminent dungeon break. 
 
 ## Final Boss
