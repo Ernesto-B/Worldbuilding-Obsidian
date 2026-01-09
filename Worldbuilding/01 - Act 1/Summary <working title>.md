@@ -4,7 +4,13 @@
 - Coincidentally, at the same time the storm started, a convoy of airships which was delivering the newly built Fortress [[Airship Image|Airships]] that were to be stationed at the other islands were traveling between the islands. They were obliterated and remains sunk to the bottom of the sea. 
 - NPC: we don't know who or what caused the storm, but it must have been those barbaric pirates. They would have been completely eradicated if those Fortress Airships were deployed like the Council had planned. Even now (two years later), the Great Storm still rages on. Rumor is, only a [[Platinum Rank]] Sorcerer is able to conjure spells that affect weather like that...
 - Recently, the Storm has gotten even worse... the Council is trying to keep it under wraps, but supposedly some high ranking Adventurers sailed to the Spine and were able to catch a glimpse of a massive whirlpool in the center of the storm. The only other Whirlpool in recorded history of that scale appeared when the calamity beast: [menacing name] was awakened and ripped apart the country to form the [[Aetheris Isles]] from what once was the largest single island in the world.
-- The Council has gotten restless. They are desperate to find the cause of the storm, and end it. Shortly after the sighting of the Whirlpool, they began paying adventurers not just from the Isles but even beyond the [[Black Tides]] to go investigate and, if necessary, kill the mage behind it (this is why the party has arrived in the Isles)
+- The Council has gotten restless. They are desperate to find the cause of the storm, and end it. Shortly after the sighting of the Whirlpool, they incentivized adventurers not just from the Isles but even beyond the [[Black Tides]] to go investigate and, if necessary, kill the mage behind it (this is why the party has arrived in the Isles).
+- The reward for achieving this is 2,000 GP.
+
+## Why Party is There
+- Incentivized by the monetary reward
 
 ## Final Boss
 - Wounded young blue dragon
+
+## 
