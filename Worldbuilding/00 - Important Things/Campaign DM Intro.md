@@ -1,0 +1,4 @@
+- This world will react to your actions or inactions. NPCs, enemies, and creatures will act while you play. The world will not sit still for the party. 
+- Combat will be dangerous, but it will always be fair. All combat encounters are made so that they pose a threat and challenge to the party, but they are never insurmountable.
+- You don't need to be optimal in combat. Creative play and team play is rewarded and can lead to higher degrees of success. 
+- If a rule is unclear, I will make a ruling and we'll look it up later. 
