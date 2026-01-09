@@ -6,7 +6,7 @@ type: region or country
 aliases: 
 ---
 # Description
-- 
+- Slyphorn, a country native to elves, lies southeast of Iyresa, past the dense forest of [Name?]. 
 
 # Geographical Location and Features
 - 
