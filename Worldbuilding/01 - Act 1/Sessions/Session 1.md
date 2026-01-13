@@ -114,41 +114,73 @@ Aftermath – political seeding (minutes 8–10):
 - What they convey:
     - “You cost us less than it could’ve been.”
     - “That earns you a conversation.”
-    
 - Session hook:
-    
     - Invitation to Stormhold.
-        
     - “If you want real coin and real answers, we talk there.”
-        
 
 End on momentum:
-
 - Do not resolve everything.
-    
 - Do not explain the storm.
-    
 - Do not reveal the dragon.
-    
 - End with:
-    
     - Tension unresolved.
-        
     - Opportunity offered.
-        
     - The party’s reputation beginning to form.
-        
 
-Final DM reminders:
+### Guild vs Guards Argument
+Purpose:
+- Introduce faction tension
+- Let players choose sides without committing fully
 
-- Let enemies react, not follow a script.
-    
-- If players hesitate, escalate the environment.
-    
-- If players dominate, have pirates flee early.
-    
-- If players struggle, guards can help after initiative is rolled.
-    
-- You control pacing, not outcomes.
+Situation:
+- Guild representative argues with a guard captain:
+    - Guild wants compensation and cargo protection
+    - Guard wants pirates interrogated immediately
+- Both turn to the party for support
 
+Player choices:
+- Support guild → money, future contracts
+- Support guards → law, Sky Guard favor
+- Stay neutral → reputation as independents
+
+Key rule:
+- No “right” answer
+- No immediate punishment
+
+
+### Interrogation Opportunity (Non-Combat)
+Purpose:
+- Seed doubt about pirates = storm cause
+- Reward capture over killing
+
+Situation:
+- Players are allowed to observe or assist questioning a captured bandit.
+- Pirate is scared, injured, superstitious.
+
+What they can learn:
+- Pirates hate the storm
+- Raids have become riskier
+- “Something in the storm scares even the old captains”
+- No clear leader beyond local crews
+
+Important:
+- They do NOT learn about the dragon
+- They DO learn the pirate narrative is incomplete
+
+### Market Scene (Short and Focused)
+Purpose:
+- Let players breathe
+- Show economic impact of storm
+- Seed future locations
+
+What players notice:
+- Prices are higher
+- Floatstone goods are guarded
+- Vendors gossip nervously
+
+Rumors you can drop (choose 2–3):
+- “Stormhold’s Labyrinth broke again last week.”
+- “Sky Guard lost a patrol near the Spine.”
+- “Gale Sanctum festival might be canceled.”
+- “Council’s hiding something — always are.”
 
