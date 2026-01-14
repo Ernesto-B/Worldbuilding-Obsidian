@@ -25,7 +25,31 @@ Good:
 - “The guard won’t meet your eyes, and keeps rubbing the same spot on his wrist.”
 
 Specific details **anchor imagination**.
-Good to incorporate the senses, and using similes to compare descriptions to real-world experiences we might have had. 
+If a description ends and **no one needs to choose**, add:
+- A time pressure
+- A moral tension
+- A looming consequence
+- Conflicting information
+
+#### Improv after the decision was made:
+Step 1: Let the Outcome Land
+- Describe the fallout
+
+Step 2: Ask a Neutral Question
+- “Who notices her first?” or “Who’s closest to the body?”
+- This pulls players into ownership.
+
+Step 3: Identify 1–2 Consequence Vectors
+After any decision, ask yourself:
+- **Who is affected?**
+- **Who benefits?**
+- **Who is angry?**
+- **Who now has leverage?**
+You only need **one** to move forward.
+
+Step 4: Turn a Consequence into a New Problem
+You don’t push them toward a plot.  
+You present a **new unstable situation**.
 
 ## Player Investment
 Every meaningful action should do _something_:
