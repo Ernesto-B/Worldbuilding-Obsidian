@@ -5,4 +5,6 @@
 - If a rule is unclear, I will make a ruling and we'll look it up later. 
 ---
 
-- Your inventory and gold is managed by you. If you don't have an item written down on your sheet, you don't have it. 
+- Your inventory and gold is managed by you. If you don't have an item written down on your sheet, you don't have it.
+- Gold conversion is done by you. (barring Electrum which will not be used) each coin of higher value is worth 10 of the previous coin (10CP = 1SP, etc). Gold is very important, and can be given to the party as rewards (or stealing/other means).
+- 

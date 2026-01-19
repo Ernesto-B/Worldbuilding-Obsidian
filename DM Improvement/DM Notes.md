@@ -80,3 +80,60 @@ You’re training:
 - Brevity
 - Situation-first thinking
 - Confidence in delivery
+
+
+Gold opens doors.
+Examples:
+- City entry fees
+- Guild membership
+- Travel permits
+- Avoiding legal trouble
+- Private audiences
+
+Make players _choose_ between bribes and consequences.
+
+## Gold Usage
+- Charge for information that reduces risk.
+	Examples:
+	- Dungeon maps
+	- Monster weaknesses
+	- Political secrets
+	- Safe routes
+	
+	Gold → better odds.
+
+- Gold opens doors.
+	Examples:
+	- City entry fees
+	- Guild membership
+	- Travel permits
+	- Avoiding legal trouble
+	- Private audiences
+	
+	Make players _choose_ between bribes and consequences.
+
+- Hirelings & Specialists: Gold buys competence.
+	Examples:
+	- Guides
+	- Scribes
+	- Healers
+	- Mercenaries
+	- Craftspeople
+	Make hirelings:
+	- Useful
+	- Fragile
+	- Opinionated
+
+- Bases, Holdings, and Strongholds
+	Examples:
+	- Safehouse
+	- Tavern
+	- Workshop
+	- Tower
+	Costs:
+	- Purchase
+	- Repairs
+	- Upgrades
+	- Staff
+	
+	This gives the party something to invest in emotionally.
