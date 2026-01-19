@@ -12,5 +12,6 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 
 
 Smithy - introduces the existence of magic items:
-	- He can't make them, but a smithy in Stormhold can due to existence of the labyrinth in Stormhold. 
-	- 
+	- He can't make them, but a smithy in Stormhold can due to existence of the labyrinth... more materials and more adventurers. 
+	- Hefty price, some magic materials require specific materials to create.
+
