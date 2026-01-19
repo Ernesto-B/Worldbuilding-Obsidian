@@ -9,3 +9,8 @@ The item that the pirate king has is either source of storm godlike power to con
 The pirates are the underlings of the Dragon. Dragon had tasked them with delivering the item to the dragon but the pirates decided that maybe they had a chance to beat the Dragon with the power of the item instead, so they kept it.
 
 Doppleganger is there to infiltrate and retrieve the item from the pirate king? Or he is there as a monster from a different affiliation with other motives?
+
+
+Smithy - introduces the existence of magic items:
+	- He can't make them, but a smithy in Stormhold can due to existence of the labyrinth in Stormhold. 
+	- 
