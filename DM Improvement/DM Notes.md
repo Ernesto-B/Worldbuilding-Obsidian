@@ -137,3 +137,7 @@ Make players _choose_ between bribes and consequences.
 	- Staff
 	
 	This gives the party something to invest in emotionally.
+
+- Training and item identity
+	Examples:
+	- Train to increase proficiency in a skill, tools, weapons. 

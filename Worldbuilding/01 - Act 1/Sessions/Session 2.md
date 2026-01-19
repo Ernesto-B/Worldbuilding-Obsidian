@@ -20,3 +20,5 @@ Pillar's Envoy - introduces healing & recovery services
 	- Remove curse: only in larger cities. Westreach doesn't really have incidents of curses.
 	- Revivify: requires component + costly fee
 
+Starting Pirate Quest - introduce NPC, party name, factions lore, storm lore, adventurer's guild lore.
+	- 
