@@ -141,3 +141,5 @@ Make players _choose_ between bribes and consequences.
 - Training and item identity
 	Examples:
 	- Train to increase proficiency in a skill, tools, weapons. 
+	- Train to increase ability mod?? OP??
+	- Identify item service
