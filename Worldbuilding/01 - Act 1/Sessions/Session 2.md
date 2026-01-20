@@ -45,3 +45,4 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 	- Other encounters (sea spawn at night, griffons in day, pirates boarding)
 
 Party name is called - **Skullkeepers**
+Critter is freaking out when asked about the Covenant of the Council.
