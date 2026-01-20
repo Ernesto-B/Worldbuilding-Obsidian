@@ -2,7 +2,7 @@ Doppleganger fight where NPC comes in to help but instead its the enemy & PC's g
 
 Soft launch the doppleganger before this fight: party has to decide who it is... doppleganger vs the original crewman? Sows uncertainty and mistrust among the crew. 
 
-Pirate king has valuable item that everyone is after including the monsters as well as the Council?
+Pirate king stole a valuable item that everyone is after including the monsters as well as the Council?
 
 The item that the pirate king has is either source of storm godlike power to control weather/environment or has ability to grant a forcefield that can protect from the storm. Pirates have it to bargain with the Council or something. 
 
@@ -36,4 +36,6 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 	- Sells basic health potion
 
 **Starting Pirate Quest** - introduce NPC, party name, factions lore, storm lore, adventurer's guild lore.
-	- Find Zorra (NPC) 
+	- Find Zorra Stormriver (female NPC) (secretly daughter of Council member of Stormhold City) to begin the pirate quest. 
+	- Zorra knows the guard captain through her father (acquaintance).
+	- Zorra is trying to gain her father's trust by being personally involved in reclaiming the item that was 
