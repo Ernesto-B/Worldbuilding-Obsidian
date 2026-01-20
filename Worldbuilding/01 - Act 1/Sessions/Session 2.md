@@ -43,3 +43,5 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 	- Unbeknownst to the party/crew, a doppleganger has boarded the ship with them and kidnaps/binds the captain in the brig and takes his place to lead the crew to the pirate's hideout.
 	- Murder mystery ensues. Doppleganger kills off and hides/tosses their bodies into the sea. Party has opportunity to solve this mystery and fight the doppleganger before they arrive on the pirate hideout.
 	- Other encounters (sea spawn at night, griffons in day, pirates boarding)
+
+Party name is called - **Skullkeepers**
