@@ -4,3 +4,4 @@ Crumbs:
 - Heavy scrape marks and splintered wood in the hold of the ship.
 - Zorra tells the party that she suspects the captain... he has been acting strange this whole time, and he has forgotten has last name. 
 
+wand of wonder
