@@ -1,6 +1,6 @@
 Crumbs:
 - When the PC's meet Vincent at the docks, Vincent scrunches his nose and says the party smells foul. He looks suspiciously at the party before getting cut off by Zorra.
-- During an interaction with Zorra, Vincent emerges from below deck and sneers at the party... Zorra explains that he can smell ill-intent and that he has suspected the party since they first met. 
+- During an interaction with Zorra, Vincent emerges from below deck and sneers at the party... Zorra explains that he can smell ill-intent and that he has suspected the party since they first met due to him being able to smell malice whenever they have been near him (actually the doppleganger that has been tailing the party). 
 - Some crewmen begin to go missing inexplicably. 
 - Crewman A witnesses Crewman B killing Crewman C and dumping him overboard at night. Crewman A tells the Captain, but the party and captain sees Crewman C on deck doing his duties. Crewman A's sanity/wellbeing is questioned. 
 - Heavy scrape marks and splintered wood in the hold of the ship.

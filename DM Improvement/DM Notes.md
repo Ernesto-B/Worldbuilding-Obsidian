@@ -45,11 +45,22 @@ After any decision, ask yourself:
 - **Who benefits?**
 - **Who is angry?**
 - **Who now has leverage?**
+- **Who lost control?**
+- **Who is now exposed?**
 You only need **one** to move forward.
 
 Step 4: Turn a Consequence into a New Problem
 You don’t push them toward a plot.  
 You present a **new unstable situation**.
+
+Your Emergency Improv Toolkit (Memorize This)
+When blank, choose **one**:
+1. Someone arrives early
+2. Someone overhears
+3. Someone lies
+4. Someone panics
+5. Time runs out
+
 
 ## Player Investment
 Every meaningful action should do _something_:
@@ -81,16 +92,6 @@ You’re training:
 - Situation-first thinking
 - Confidence in delivery
 
-
-Gold opens doors.
-Examples:
-- City entry fees
-- Guild membership
-- Travel permits
-- Avoiding legal trouble
-- Private audiences
-
-Make players _choose_ between bribes and consequences.
 
 ## Gold Usage
 - Charge for information that reduces risk.
