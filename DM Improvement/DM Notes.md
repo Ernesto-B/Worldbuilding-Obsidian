@@ -159,3 +159,10 @@ You’re training:
 > 	Or you could stay at the Silver Swan, where merchants and minor nobles tend to gather.” 	
 
 After they choose, _then_ translate to gold **quietly**.
+
+
+## Cinematic Scenes
+- Sensory Scene Framing
+	- Define dominant emotion
+	- Choose one sensory detail
+	- Introduce action before dialogue
