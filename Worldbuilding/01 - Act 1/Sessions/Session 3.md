@@ -32,7 +32,6 @@ If combat breaks out:
 - Zorra is:
 	- Learning from the Skullkeepers (she hadn't had proper combat training). 
 	- Stabilizes downed PCs
-	- 
 
 Lore drops:
 - Zorra and Vincent have been trying to catch pirate captains (heads of the pirate organization) for months with no luck. They spent the rest of their gold on hiring a priest to cast `Speak with Dead` spell on one of the pirates the party killed in session 1 to get info on where one of the captains was located. No longer having gold, they could not afford to pay for escorts or mercenaries or an experienced crew. She is grateful for the party helping them. Thus even if Vincent suspects them, he has no choice but to leave you alone. Zorra trusts the party since they killed the pirates who attacked Westreach Port in session 1.
@@ -57,8 +56,9 @@ Lore drops:
   - Suspicious, gruff demeanor
 - Zorra smooths things over
 - Foreshadow "sense of malice"
+- Vincent drops crates on himself and is injured. 
 
-IF players question this:
+IF players question the sniffing/sense of malice:
 - Vincent deflects
 - Zorra explains his instinct
 
@@ -101,27 +101,23 @@ Morale:
 
 IF players investigate:
 - Discover blood trails, scrape marks
-
----
+- Interrogating crew?
 
 ## DAY 2 — CONTRADICTIONS
-
 Clues:
 - Two sailors report speaking to same crewman at same time
 - That crewman vanishes by nightfall
 - Scrape marks and splintered wood in hold
 
 Encounter Option:
-- Sea spawn / pirates
+- **Sea spawn / pirates**
 - Captain again avoids combat
+- Interrogating crew?
 
 Morale:
 - –1 if unresolved
 
----
-
 ## NIGHT 3 — IMPOSSIBLE WITNESS
-
 Event:
 - Crewman A sees Crewman B kill Crewman C
 - Party later sees Crewman C alive
@@ -133,13 +129,11 @@ Morale:
 - –1 if mishandled
 - –1 if accusation is public and wrong
 
----
 
 ## DAY 3 — SUSPICION CRYSTALLIZES
-
 Clues:
 - Captain forgets crew nicknames
-- Gives wrong surname
+- Forget's Zorra's name, instead says "you"
 - Zorra voices suspicion openly
 
 IF players act:
@@ -148,10 +142,7 @@ IF players act:
 Morale:
 - +3 if Vincent recovered alive
 
----
-
 ## NIGHT 4 — DOPPLEGANGER CONFRONTATION
-
 Trigger Conditions:
 - Players confront "Captain"
 - Players search brig
@@ -166,7 +157,6 @@ End States:
 - Doppleganger escapes with info
 - Vincent rescued but doppleganger flees
 
----
 
 ## POST-FIGHT — STABILIZATION
 
