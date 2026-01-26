@@ -159,7 +159,6 @@ End States:
 
 
 ## POST-FIGHT — STABILIZATION
-
 - Vincent is alive but exhausted
 - Cannot fight further this voyage
 - Crew morale rebounds significantly
