@@ -66,7 +66,7 @@ IF players question the sniffing/sense of malice:
 ## NIGHT 1 — THE SWAP (OFF-SCREEN)
 - Doppleganger incapacitates Vincent
 - Vincent bound and hidden in brig
-- Doppleganger assumes Vincent's form
+	- Doppleganger assumes Vincent's form
 
 (No clues yet)
 
