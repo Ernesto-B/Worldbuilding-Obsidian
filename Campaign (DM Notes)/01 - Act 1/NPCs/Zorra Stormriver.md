@@ -6,9 +6,8 @@
 
 # Character Details
 - Daughter of [[Sven Stormhold]], representative of [[Stormhold]] City in the [[Council of Three]].
-- Acquaintance of [[Cpt. Vincent]].
+- Acquaintance of [[Cpt. Vincent]]. 
 
 # Story Details
-- Zorra is trying to gain her father's trust by being personally involved in reclaiming the [[Weather Jewel]] that was stolen from the Council. The pirates must have it and must be the ones that caused the storm (not true.. it is the dragon). 
-- 
-
+- Zorra is trying to gain her father's trust by being personally involved in reclaiming the [[Weather Jewel]] that was stolen from the Council. According to them, the pirates must have it and must be the ones that caused the storm (not true.. it is the dragon). 
+- The pirates have long been adversaries of the 
