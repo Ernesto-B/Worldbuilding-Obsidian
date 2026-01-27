@@ -56,7 +56,7 @@ If combat breaks out:
   - Suspicious, gruff demeanor
 - Zorra smooths things over
 - Foreshadow "sense of malice"
-- Vincent drops crates on himself and is injured. 
+- Vincent drops crates on himself and is injured.
 
 IF players question the sniffing/sense of malice:
 - Vincent deflects
