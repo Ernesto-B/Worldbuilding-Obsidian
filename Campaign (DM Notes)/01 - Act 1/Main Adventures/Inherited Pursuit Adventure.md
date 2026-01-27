@@ -1,0 +1,1 @@
+A character inherits a magic item from a deceased relative, unaware that this relative's enemies () are after the item. 
