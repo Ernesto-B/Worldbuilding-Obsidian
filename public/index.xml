@@ -6,65 +6,65 @@
       <description>Last 10 notes on Miskar Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Rules — Table Standards</title>
-    <link>https://quartz.jzhao.xyz/rules/</link>
-    <guid>https://quartz.jzhao.xyz/rules/</guid>
-    <description><![CDATA[ Table standards in play at the table. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 09:15:57 GMT</pubDate>
+    <title>Assets</title>
+    <link>https://quartz.jzhao.xyz/assets/assets</link>
+    <guid>https://quartz.jzhao.xyz/assets/assets</guid>
+    <description><![CDATA[ Supporting media for maps, items, bestiary art, and statblocks. Maps Items Bestiary art Statblocks . ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Sylphorne</title>
-    <link>https://quartz.jzhao.xyz/regions/sylphorne/</link>
-    <guid>https://quartz.jzhao.xyz/regions/sylphorne/</guid>
-    <description><![CDATA[ The wind in Sylphorne learns your name before you speak. At a Glance Elven homeland tucked past dense forests southeast of Iyresa. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:38:30 GMT</pubDate>
+    <title>airship-image</title>
+    <link>https://quartz.jzhao.xyz/assets/items/airship-image</link>
+    <guid>https://quartz.jzhao.xyz/assets/items/airship-image</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Coast of Iyresa</title>
-    <link>https://quartz.jzhao.xyz/regions/iyresa/</link>
-    <guid>https://quartz.jzhao.xyz/regions/iyresa/</guid>
-    <description><![CDATA[ Every tide that reaches Iyresa carries a rumor worth coin. At a Glance Twin cities Cascadea (luxury) and Stonefall (grit) anchor trade. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:38:30 GMT</pubDate>
+    <title>Bestiary</title>
+    <link>https://quartz.jzhao.xyz/bestiary/bestiary</link>
+    <guid>https://quartz.jzhao.xyz/bestiary/bestiary</guid>
+    <description><![CDATA[ Creatures, monsters, and notable beasts. TODO: Add links to statblocks and lore. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Aetheris Isles</title>
-    <link>https://quartz.jzhao.xyz/regions/aetheris-isles/</link>
-    <guid>https://quartz.jzhao.xyz/regions/aetheris-isles/</guid>
-    <description><![CDATA[ Skyfarers measure distance in breaths of wind. At a Glance Floating archipelago sustained by floatstone towers and the Ascension Zone. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:38:30 GMT</pubDate>
+    <title>Factions — Powers &amp; Guilds</title>
+    <link>https://quartz.jzhao.xyz/factions/</link>
+    <guid>https://quartz.jzhao.xyz/factions/</guid>
+    <description><![CDATA[ Organizations steering politics, trade, and conflict. Isles: Council of Three, Ascendant Guild, Sky Guard Corps. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Reference — Quick Guides</title>
-    <link>https://quartz.jzhao.xyz/reference/</link>
-    <guid>https://quartz.jzhao.xyz/reference/</guid>
-    <description><![CDATA[ Fast navigation for newcomers and table prep. Where to Start guided path. Glossary, Timeline. Travel &amp; Hazards, Major Factions. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:36:24 GMT</pubDate>
+    <title>Player Portal</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Player Portal Use these entry points to navigate the wiki: Rules Setting Regions Locations Factions Religion Magic Character Options Items Bestiary Reference Assets . ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Travel and Hazards</title>
-    <link>https://quartz.jzhao.xyz/reference/travel-and-hazards</link>
-    <guid>https://quartz.jzhao.xyz/reference/travel-and-hazards</guid>
-    <description><![CDATA[  Sea: Black Tides demand escorts; most safe crossings stage via Westreach Port. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:36:24 GMT</pubDate>
+    <title>falling-star-tower</title>
+    <link>https://quartz.jzhao.xyz/locations/aetheris-isles/falling-star-tower</link>
+    <guid>https://quartz.jzhao.xyz/locations/aetheris-isles/falling-star-tower</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Where to Start</title>
-    <link>https://quartz.jzhao.xyz/reference/where-to-start</link>
-    <guid>https://quartz.jzhao.xyz/reference/where-to-start</guid>
-    <description><![CDATA[ Start with a Region Begin at Coast of Iyresa for trade hubs, cities, and faction drama. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:36:24 GMT</pubDate>
+    <title>Locations — Cities &amp; Sites</title>
+    <link>https://quartz.jzhao.xyz/locations/</link>
+    <guid>https://quartz.jzhao.xyz/locations/</guid>
+    <description><![CDATA[ Key cities, ports, and landmarks to drop into play. Cascadea and Stonefall anchor Iyresa. Westreach Port opens the Isles; Black Tides define the sea. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Glossary</title>
-    <link>https://quartz.jzhao.xyz/reference/glossary</link>
-    <guid>https://quartz.jzhao.xyz/reference/glossary</guid>
-    <description><![CDATA[  Drift: Cascadea district; five total, each with its own chair. Hollow: Stonefall strata; lower hollows grow rough and lawless. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:36:24 GMT</pubDate>
+    <title>Character Options — Homebrew</title>
+    <link>https://quartz.jzhao.xyz/mechanics/character-options/</link>
+    <guid>https://quartz.jzhao.xyz/mechanics/character-options/</guid>
+    <description><![CDATA[ Player-facing ancestries, classes, and backgrounds for this world. TODO: Add specific options here. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Major Factions</title>
-    <link>https://quartz.jzhao.xyz/reference/major-factions</link>
-    <guid>https://quartz.jzhao.xyz/reference/major-factions</guid>
-    <description><![CDATA[  Council of Three: Governs the Isles; balances island interests. Ascendant Guild: Oversees sky farms and floatstone construction. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:36:24 GMT</pubDate>
+    <title>Mechanics — Homebrew Options</title>
+    <link>https://quartz.jzhao.xyz/mechanics/</link>
+    <guid>https://quartz.jzhao.xyz/mechanics/</guid>
+    <description><![CDATA[ Player-facing options and tables. Spells index. Items and gear. Character Options. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item><item>
-    <title>Timeline</title>
-    <link>https://quartz.jzhao.xyz/reference/timeline</link>
-    <guid>https://quartz.jzhao.xyz/reference/timeline</guid>
-    <description><![CDATA[  Prehistory: Meteor strike scatters floatstone across the north, lifting Cascadea’s landmass and birthing the Coast of Iyresa crater. ]]></description>
-    <pubDate>Sat, 31 Jan 2026 08:36:24 GMT</pubDate>
+    <title>Items — Homebrew Gear</title>
+    <link>https://quartz.jzhao.xyz/mechanics/items/</link>
+    <guid>https://quartz.jzhao.xyz/mechanics/items/</guid>
+    <description><![CDATA[ Unique equipment, artifacts, and notable gear. Airship art. ]]></description>
+    <pubDate>Sat, 31 Jan 2026 09:50:48 GMT</pubDate>
   </item>
     </channel>
   </rss>
