@@ -153,11 +153,8 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
                 : `https://${baseUrl}/static/${userDefinedOgImagePath}`
             }
 
-            const generatedOgImagePath = isRealFile
-              ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
-              : undefined
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
-            const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
+            const ogImagePath = userDefinedOgImagePath ?? defaultOgImagePath
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
             return (
               <>
