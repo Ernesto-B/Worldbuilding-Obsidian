@@ -19,21 +19,20 @@ An extremely valuable mineral found only in the [[regions/aetheris-isles/index|A
 </div>
 
 ## How It Works
-- Raw floatstone is extremely durable yet malleable, suited to gear and tools rather than weapon edges; within the Ascension Zone, items with enough floatstone rise naturally.
-- Purification refines it into pure floatstone, a steel-like material that expands the Ascension Zone instead of floating and is prized for clandestine weapon crafting.
+- Floatstone's natural state is to float; even outside the Isles. Floatstone can only be found in the Isles, and export of it is super controlled by the [[council-of-three|Council of Three]], thus making it a rare and expensive ore to the rest of the world. 
+- Pure floatstone is extremely durable yet malleable while hot, suited to gear and tools rather than weapon edges. It is a steel-like material that is both durable and with a distinct luster, making it highly sought after as a luxury item in other parts of [[Miskar]].
+- [[floatstone-towers|Floatstone Towers]] (entirely made of purified floatstone) have been there since ancient times, and it is not known why they exist or what function they have... at least publicly.
 - The purification process is held by only a few elite figures; its transmission remains opaque.
 
 ## Rules & Constraints
-- Limited quantity keeps prices high and availability restricted.
-- Political pacts ban commercial purification in Drakonia and Silveid, pushing demand to black markets.
+- Limited quantity as well as export control keeps prices high and availability restricted.
 
 ## Impact on Society
 - Economy: Drives trade monopolies and black-market demand for purified weapons.
-- Warfare: Floatstone-based gear enables aerial tactics within the Ascension Zone.
-- Daily life: Middle-class and elite Aetherists incorporate floatstone into tools and travel.
+- Warfare: Floatstone-based gear enables aerial tactics. This technology is in the beginnings of its invention in the year 700 [[second-age| Second Age (SA)]].
 
 ## Dangers & Consequences
-- Illicit purification risks political retaliation and destabilization of the Ascension Zone if misused.
+- Illicit purification risks political retaliation and destabilization of politics.
 
 ## History
 

@@ -1,8 +1,0 @@
----
-date: <% tp.date.now("YYYY-MM-DD") %>
-campaign: 
-arc: 
-type: entity
-aliases: 
----
-# Lore
